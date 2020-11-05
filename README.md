@@ -37,3 +37,5 @@ Refactor your CSS by using the Bootstrap CSS framework where possible
 5. Commit staged files: `git commit -m <some-information-message-here>`
 6. Push changes to GitHub `git push`
 7. Finally create a pull request from your projects GitHub page
+Not sure what going on here
+but here goes nothing
